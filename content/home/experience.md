@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Fellow"
+  company = "USP"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "São Paulo"
+  date_start = "2018-06-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = "Environmental changes in deep time and the diversification of terrestrial vertebrates."
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+[[experience]]
+  title = "PhD student"
+  company = "USP"
+  company_url = ""
+  location = "São Paulo"
+  date_start = "2013-07-01"
+  date_end = "2017-10-02"
+  description = "The roles of diet, speciation and extinction on bird diversification and frugivory network assembling."
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Scholar - Young Scientists Summer Program"
+  company = "International Institute for Applied Systems Analysis"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Laxenburg - Austria"
+  date_start = "2011-06-01"
+  date_end = "2011-08-30"
+  description = ""
+
+[[experience]]
+  title = "MSc. student"
+  company = "USP"
+  company_url = ""
+  location = "São Paulo"
+  date_start = "2009-03-01"
+  date_end = "2012-04-20"
+  description = "Dendroclimatological analysis of cedro (Cedrela fissilis L. - Meliaceae) for the reconstruction of recent environmental scenario from São Paulo, SP"
 
 +++

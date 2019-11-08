@@ -24,12 +24,30 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "music"
+  icon_pack = "fas"
+  name = "Music"
+  description = "20%"
+
+[[feature]]
+  icon = "camera"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "20%"
+
+[[feature]]
+  icon = "utensils"
+  icon_pack = "fas"
+  name = "Cooking"
+  description = "40%"
+
+[[feature]]
+  icon = "running"
+  icon_pack = "fas"
+  name = "Running"
+  description = "40%"
 
 +++
