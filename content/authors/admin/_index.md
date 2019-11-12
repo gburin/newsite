@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+avatar: avatar.png
+
 # Role/position
 role: Postdoctoral Fellow in Ecology
 
