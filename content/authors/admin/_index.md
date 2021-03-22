@@ -12,15 +12,15 @@ superuser: true
 avatar: avatar.png
 
 # Role/position
-role: Postdoctoral Fellow in Ecology
+role: Leverhulme Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade de São Paulo
+- name: Natural History Museum
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include macroevolution, macroecology and species interactions.
 
 interests:
 - Macroevolution
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:gustavoburin@usp.br  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:gustavo.burin@nhm.ac.uk  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gustavoburin
@@ -72,6 +72,6 @@ social:
 # - Visitors
 ---
 
-I am a (now official) postdoctoral fellow at the University of São Paulo. My main interests are related to how biological interactions affect the diversification dynamics of different groups. I am also interested in how other biotic and abiotic factors affect the diversification of land vertebrates, as well as trying to understand how some groups can achieve a huge species diversity.
+I am currently a Leverhulme postdoctoral fellow at the Natural History Museum in London (UK). My main interests are related to how biological interactions affect the diversification dynamics of different groups. I am also interested in how other biotic and abiotic factors affect the diversification of land vertebrates, and lately I have been working also with morphological evolution in marine mammals.
 
 I am also interested in method development and performance testing. Lastly, I am an open science enthusiast, and want to start blogging about it, general science and my personal interests in the near future.
