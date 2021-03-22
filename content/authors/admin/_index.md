@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoctoral Fellow in Ecology
+    institution: Universidade de São Paulo
+    year: 2018-2020
   - course: PhD in Ecology
     institution: Universidade de São Paulo
     year: 2017
@@ -72,6 +75,4 @@ social:
 # - Visitors
 ---
 
-I am currently a Leverhulme postdoctoral fellow at the Natural History Museum in London (UK). My main interests are related to how biological interactions affect the diversification dynamics of different groups. I am also interested in how other biotic and abiotic factors affect the diversification of land vertebrates, and lately I have been working also with morphological evolution in marine mammals.
-
-I am also interested in method development and performance testing. Lastly, I am an open science enthusiast, and want to start blogging about it, general science and my personal interests in the near future.
+I am currently a Leverhulme postdoctoral fellow at the Natural History Museum in London (UK), working with morphological evolution in marine mammals. My main interests are related to how biological interactions affect the diversification dynamics of different groups. I am also interested in how other biotic and abiotic factors affect the diversification of vertebrates. Moreover, I'm interested in method development and performance testing. Lastly, I am an open science enthusiast, and want to start blogging about it, general science and my personal interests in the near future.

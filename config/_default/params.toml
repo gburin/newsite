@@ -86,19 +86,19 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gustavoburin@usp.br"
-phone = "+55 11 3091-0967"
+email = "gustavo.burin@nhm.ac.uk"
+phone = "+4407588793934"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rua do Matão, 321, travessa 14", city = "São Paulo", region = "SP", postcode = "05508-090", country = "Brazil", country_code = "BR"}
+address = {street = "Cromwell Road", city = "London", region = "South Kensington", postcode = "SW7 5BD", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-23.564567", longitude = "-46.729797"}
+coordinates = {latitude = "51.49727606100138", longitude = "-0.1758522159242649"}, 
 
 # Directions for visitors to locate you.
-directions = "Office: Room 332, Ecology Department, 2 floor."
+directions = "Darwin Center"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
