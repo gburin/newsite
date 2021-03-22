@@ -95,7 +95,7 @@ address = {street = "Cromwell Road", city = "London", region = "South Kensington
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.49727", longitude = "-0.17585"}, 
+# coordinates = {latitude = "51.49727", longitude = "-0.17585"}, 
 
 # Directions for visitors to locate you.
 directions = "Darwin Center"
