@@ -1,8 +1,8 @@
 +++
-date = 2017-12-13
-lastmod = 2017-12-13
+date = 2021-05-14
+lastmod = 2021-06-08
 draft = false
-tags = ["paper", "vipers", "diversitree", "OUwie", "arboreal", "terrestrial"]
+tags = ["paper", "birds", "BAMM", "networks", "frugivory", "MCMCglmm"]
 title = "The latest paper of my dissertation is finally published!"
 math = true
 summary = """
