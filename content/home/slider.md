@@ -15,6 +15,22 @@ height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  title = "Check out our new paper in Science"
+  content = "about interaction networks and diversification!"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/science_2021.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "You can access the paper here"
+  cta_url = "https://doi.org/10.1126/science.abf0556"
+  cta_icon_pack = "ai"
+  cta_icon = "google-scholar"
+
+
 [[item]]
   title = "ggplot2"
   content = "Tutorial com informações básicas de ggplot2 :smile:"
