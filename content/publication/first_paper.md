@@ -5,8 +5,6 @@ date = "2016-04-09"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["G Burin", "WD Kissling", "PR Guimarães Jr.", "CH Şekercioğlu", "TB Quental"]
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -24,8 +22,6 @@ publication_short = "In *NComms*"
 
 # Abstract and optional shortened version.
 abstract = "Diet is commonly assumed to affect the evolution of species, but few studies have directly tested its effect at macroevolutionary scales. Here we use Bayesian models of trait-dependent diversification and a comprehensive dietary database of all birds worldwide to assess speciation and extinction dynamics of avian dietary guilds (carnivores, frugivores, granivores, herbivores, insectivores, nectarivores, omnivores and piscivores). Our results suggest that omnivory is associated with higher extinction rates and lower speciation rates than other guilds, and that overall net diversification is negative. Trait-dependent models, dietary similarity and network analyses show that transitions into omnivory occur at higher rates than into any other guild. We suggest that omnivory acts as macroevolutionary sink, where its ephemeral nature is retrieved through transitions from other guilds rather than from omnivore speciation. We propose that these dynamics result from competition within and among dietary guilds, influenced by the deep-time availability and predictability of food resources."
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/ncomms11250" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 # Featured image thumbnail (optional)
 image_preview = ""
