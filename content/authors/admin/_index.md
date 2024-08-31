@@ -12,11 +12,11 @@ superuser: true
 avatar: avatar.png
 
 # Role/position
-role: Leverhulme Postdoctoral Fellow
+role: Postdoctoral Researc Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Natural History Museum
+- name: Durham University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoctoral Research Associate
+    institution: Natural History Museum London
+    year: 2021-2023
   - course: Postdoctoral Fellow in Ecology
     institution: Universidade de São Paulo
     year: 2018-2020
@@ -75,4 +78,4 @@ social:
 # - Visitors
 ---
 
-I am currently a Leverhulme postdoctoral fellow at the Natural History Museum in London (UK), working with morphological evolution in marine mammals. My main interests are related to how biological interactions affect the diversification dynamics of different groups. I am also interested in how other biotic and abiotic factors affect the diversification of vertebrates. Moreover, I'm interested in method development and performance testing. Lastly, I am an open science enthusiast, and want to start blogging about it, general science and my personal interests in the near future.
+I am currently a Postdoctoral Research Associate at Durham University (UK), working with macroevolutionary patterns of mutualism breakdowns in plants. My main interests are related to how biological interactions affect the diversification dynamics of different groups. I am also interested in how other biotic and abiotic factors affect the diversification of vertebrates. Moreover, I'm interested in method development and performance testing. Lastly, I am an open science enthusiast, and want to start blogging about it, general science and my personal interests in the near future.
