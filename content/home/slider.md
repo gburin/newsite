@@ -74,7 +74,7 @@ height = "300px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Other Publications"
-  cta_url = "https://www.gburin.com/#featured"
+  cta_url = "https://www.gburin.com/#publications"
   cta_icon_pack = "ai"
   cta_icon = "lattes"
 +++

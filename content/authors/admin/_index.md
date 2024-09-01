@@ -12,7 +12,7 @@ superuser: true
 avatar: avatar.png
 
 # Role/position
-role: Postdoctoral Researc Associate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
