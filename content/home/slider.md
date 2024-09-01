@@ -18,15 +18,15 @@ height = "300px"
 
 [[item]]
   title = "Check out our new paper in Science"
-  content = "about interaction networks and diversification!"
+  content = "about an interesting trapping mechanisms in plants!"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/science_2021_slider.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "nepenthes-2024-slider.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "You can access the paper here"
-  cta_url = "https://doi.org/10.1126/science.abf0556"
+  cta_url = "https://www.science.org/doi/abs/10.1126/science.ade0529"
   cta_icon_pack = "ai"
   cta_icon = "google-scholar"
 
@@ -51,18 +51,18 @@ height = "300px"
   cta_icon = "chart-bar"
 
 [[item]]
-  title = "Check out our new preprint"
-  content = "about mycorrhizae and diversification!"
+  title = "Check out our paper with networks and macroevolution"
+  content = "Last paper from my PhD!"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/header_mujica_biorxiv.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/science_2021_slider.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Get it on bioRxiv"
-  cta_url = "https://www.biorxiv.org/content/10.1101/824441v1"
+  cta_label = "You can access the paper here"
+  cta_url = "https://doi.org/10.1126/science.abf0556"
   cta_icon_pack = "ai"
-  cta_icon = "biorxiv"
+  cta_icon = "google-scholar"
 
 [[item]]
   title = "Or go look at my other publications"
