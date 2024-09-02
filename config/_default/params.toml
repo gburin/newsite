@@ -86,19 +86,19 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gustavo.burin@nhm.ac.uk"
+email = "gustavo.burin-ferreira@durham.ac.uk"
 phone = "+4407588793934"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Cromwell Road", city = "London", region = "South Kensington", postcode = "SW7 5BD", country = "United Kingdom", country_code = "UK"}
+address = {street = "South Road", city = "Durham", region = "#", postcode = "DH1 3LE", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "51.49727", longitude = "-0.17585"}, 
 
 # Directions for visitors to locate you.
-directions = "Darwin Center"
+directions = "#"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

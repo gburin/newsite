@@ -52,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:gustavo.burin@nhm.ac.uk  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:gustavo.burin-ferreira@durham.ac.uk  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gustavoburin
