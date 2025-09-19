@@ -16,7 +16,7 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Durham University
+- name: University of Gothenburg
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoctoral Research Associate
+    institution: Durham University
+    year: 2024-2025
   - course: Postdoctoral Research Associate
     institution: Natural History Museum London
     year: 2021-2023
@@ -52,10 +55,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:gustavo.burin-ferreira@durham.ac.uk  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:gustavo.burin@bioenv.gu.se  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/gustavoburin
+  link: https://bsky.app/profile/gburin.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=mD0km9kAAAAJ&hl=en
@@ -78,4 +81,4 @@ social:
 # - Visitors
 ---
 
-I am currently a Postdoctoral Research Associate at Durham University (UK), working with macroevolutionary patterns of mutualism breakdowns in plants. My main interests are related to how biological interactions affect the diversification dynamics of different groups. I am also interested in how other biotic and abiotic factors affect the diversification of vertebrates. Moreover, I'm interested in method development and performance testing. Lastly, I am an open science enthusiast, and want to start blogging about it, general science and my personal interests in the near future.
+I am currently a Marie Skłodowska-Curie Fellow at the University of Gothenburg (Sweden), exploring causal models in Macroevolution. Previously I was a Postdoctoral Research Associate at Durham University (UK) working with macroevolutionary patterns of mutualism breakdowns in plants. My main interests are related to how biological interactions affect the diversification dynamics of different groups. I am also interested in how other biotic and abiotic factors affect the diversification of vertebrates. Moreover, I'm interested in method development and performance testing. Lastly, I am an open science enthusiast, and want to start blogging about it, general science and my personal interests in the near future.
