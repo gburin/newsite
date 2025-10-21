@@ -87,7 +87,7 @@ privacy_pack = false
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "gustavo.burin@bioenv.gu.se"
-phone = "+4407588793934"
+# phone = "+4407588793934"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
