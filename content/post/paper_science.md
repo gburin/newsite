@@ -10,7 +10,7 @@ Our paper was finally published, after almost 4 years of work!
 """
 
 [header]
-image = "headers/science_2021.jpg"
+image = "headers/science_2021.png"
 caption = ""
 
 +++
