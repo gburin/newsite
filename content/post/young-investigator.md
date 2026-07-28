@@ -21,4 +21,4 @@ The sad part of this story is that I will have to leave the University of Gothen
 
 Anyway, keep your eyes open because I will announce the openings for the positions to work with me in the coming months. I expect to hire 2 undergrad students, 2 Masters students and 1 PhD student for the duration of the project, and maybe even more if there's interest. So, if you fancy working with causal approaches in macroevolution, drop me a line so we can talk more! You can find my poster presented at the II meeting of the Brazilian Society for Evolutionary Biology in July/2026 with some very broad description of the general idea behind my project.
 
-![poster_sbbe]("img/poster_sbbe_2026.png")
+![poster_sbbe](img/poster_sbbe_2026.png)
