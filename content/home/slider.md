@@ -27,8 +27,8 @@ height = "300px"
   
   cta_label = "More information here:"
   cta_url = "https://www.gburin.com/post/young-investigator/"
-  cta_icon_pack = "lucide"
-  cta_icon = "mouse-pointer-click"
+  cta_icon_pack = "hero"
+  cta_icon = "link"
 
 
 [[item]]
