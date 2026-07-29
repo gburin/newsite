@@ -17,6 +17,21 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
+  title = "Young Investigator Grant"
+  content = "I was awarded a 5-year grant to work on causality in Macroevolution!"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/edm-jp.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "More information here:"
+  cta_url = "https://www.gburin.com/post/young-investigator/"
+  cta_icon_pack = "lucide"
+  cta_icon = "mouse-pointer-click"
+
+
+[[item]]
   title = "Check out our new paper in Science"
   content = "about an interesting trapping mechanisms in plants!"
   align = "center"
