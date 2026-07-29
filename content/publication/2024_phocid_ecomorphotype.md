@@ -1,9 +1,9 @@
 +++
 title = "Interaction between floral rewards and floral symmetry shapes diversification dynamics in Amazonian trees"
-date = "2025-10-08"
+date = "2024-06-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["D Graciano", "G Burin", "SM Carmello-Guerreiro", "ED Tölke"]
+authors = ["JP Rule", "G Burin", "T Park"]
 
 # Publication type.
 # Legend:
@@ -17,12 +17,11 @@ authors = ["D Graciano", "G Burin", "SM Carmello-Guerreiro", "ED Tölke"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *New Phytologist*."
-publication_short = "In *NewPhyt*"
+publication = "In *PeerJ*."
+publication_short = "In *PeerJ*"
 
 # Abstract and optional shortened version.
-abstract = "Floral zygomorphy, or monosymmetry, is thought to have a positive effect on the diversification rates of angiosperms, but its true impact is still an open topic. Given the controversy surrounding this matter, our study evaluates whether rewards such as nectar and pollen produced by floral structures evolve in correlation with floral symmetry and its effects on diversification. Using the family Lecythidaceae, we characterized the floral structures that produce different rewards for pollinators and assessed whether these rewards evolve correlated with the varying levels of floral symmetry observed in the subfamily Lecythidoideae. We also used trait-dependent diversification to assess whether this trait correlation affects lineage diversification rates. Floral rewards are produced by structures that are morphological modifications of the androecium, resulting in unusual floral nectaries and leading to a gradual sterilization of the male function in the flowers. The kinds of rewards evolve in a correlated fashion with the varying levels of floral symmetry observed in the subfamily, with nectar production being most likely associated with strongly monosymmetric floral forms. Lastly, our results suggest that this combination of trait states, nectar, and monosymmetry, is loosely associated with increased diversification in Lecythidoideae. We propose that these patterns might be related to the degree of specialization of pollinators attracted by the different types of flowers and rewards, and to the complex interaction between biotic and abiotic factors; however, this is still open to debate. The evaluation of correlated floral traits, especially symmetry and nectar production, is essential for a better understanding of the diversification dynamics of angiosperm lineages.
-"
+abstract = "The fossil record of true seals (Family Phocidae) is mostly made up of isolated bones, some of which are type specimens. Previous studies have sought to increase referral of non-overlapping and unrelated fossils to these taxa using the ‘Ecomorphotype Hypothesis’, which stipulates that certain differences in morphology between taxa represent adaptations to differing ecology. On this basis, bulk fossil material could be lumped to a specific ecomorphotype, and then referred to species in that ecomorphotype, even if they are different bones. This qualitative and subjective method has been used often to expand the taxonomy of fossil phocids, but has never been quantitatively tested. We test the proposed ecomorphotypes using morphometric analysis of fossil and extant northern true seal limb bones, specifically principal components analysis and discriminant function analysis. A large amount of morphological overlap between ecomorphotypes, and poor discrimination between them, suggests that the ‘Ecomorphotype Hypothesis’ is not a valid approach. Further, the analysis failed to assign fossils to ecomorphotypes designated in previous studies, with some fossils from the same taxa being designated as different ecomorphotypes. The failure of this approach suggests that all fossils referred using this method should be considered to have unknown taxonomic status. In light of this, and previous findings that phocid limb bones have limited utility as type specimens, we revise the status of named fossil phocid species. We conclude that the majority of named fossil phocid taxa should be considered nomina dubia."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,7 +35,7 @@ featured = true
 projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70623"
+url_pdf = "https://peerj.com/articles/17592/"
 url_preprint = "#"
 url_code = "#"
 url_dataset = "#"
@@ -59,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/diego_newphyt.png"
-caption = "Our paper in *New Phytologist*"
+image = "headers/ecomorphotype_2024.png"
+caption = "Our paper in *PeerJ*"
 
 +++
