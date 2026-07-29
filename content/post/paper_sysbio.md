@@ -10,7 +10,7 @@ My second paper was published in Systematic Biology!
 """
 
 [header]
-image = "headers/workflow_sysbio_2018.png?height=20pc"
+image = "headers/workflow_sysbio_2018.png?height=10pc"
 
 +++
 
